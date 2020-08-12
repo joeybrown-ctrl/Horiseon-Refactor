@@ -8,4 +8,5 @@ I refactored both the index.html and style.css pages to meet accessibility stand
 
 ## Contributors
 
--Joey Brown <gjoey.brown@gmail.com>
+-Joey Brown 
+<gjoey.brown@gmail.com>

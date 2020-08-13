@@ -8,4 +8,4 @@ I refactored both the index.html and style.css pages to meet accessibility stand
 
 ## Contributors
 
--Joey Brown  return <gjoey.brown@gmail.com>
+-Joey Brown <br> <gjoey.brown@gmail.com>

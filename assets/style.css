@@ -59,7 +59,7 @@ p {
     background-position: center;
 }
 
-/*refactored the classes with <article> tags as one class*/
+/*refactored the classes with article tags as one class*/
 .articles {
     margin-bottom: 20px;
     padding: 50px;
@@ -68,15 +68,16 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*this applies to the image styling as well*/
-.articles img {
-    max-height: 200px;
-}
 
 /*and the h2s*/
 .articles h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/*this applies to the image styling as well*/
+.articles img {
+    max-height: 200px;
 }
 
 .float-left {
